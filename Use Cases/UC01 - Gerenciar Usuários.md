@@ -185,7 +185,7 @@ Após o passo 5 do fluxo básico:
 
 Retorna ao passo 2 do fluxo básico.
 
-##### 1.6.3.3 Senha Inválida
+###### 1.6.3.3 Senha Inválida
 
 Após o passo 5 do fluxo básico:
 
@@ -194,7 +194,7 @@ Após o passo 5 do fluxo básico:
 
 Retorna ao passo 3 do fluxo básico.
 
-##### 1.6.3.4 Senhas Incompatíveis
+###### 1.6.3.4 Senhas Incompatíveis
 
 Após o passo 5 do fluxo básico:
 
@@ -203,7 +203,7 @@ Após o passo 5 do fluxo básico:
 
 Retorna ao passo 4 do fluxo básico.
 
-##### 1.6.3.5 Imagem Inválida
+###### 1.6.3.5 Imagem Inválida
 
 Após o passo 16 do fluxo básico:
 
@@ -212,7 +212,7 @@ Após o passo 16 do fluxo básico:
 
 Retorna ao passo 12 do fluxo básico.
 
-##### 1.6.3.6 Limite de caracteres excedido
+###### 1.6.3.6 Limite de caracteres excedido
 
 A qualquer momento do fluxo básico:
 
@@ -496,7 +496,7 @@ Após o passo 12 do fluxo básico:
 
 Retorna ao passo anterior ao erro.
 
-##### 3.6.3.2 Senha Inválida
+###### 3.6.3.2 Senha Inválida
 
 Após o passo 14 do fluxo básico:
 
@@ -505,7 +505,7 @@ Após o passo 14 do fluxo básico:
 
 Retorna ao passo 13 do fluxo básico.
 
-##### 3.6.3.3 Imagem Inválida
+###### 3.6.3.3 Imagem Inválida
 
 Após o passo 11 do fluxo básico:
 
@@ -514,7 +514,7 @@ Após o passo 11 do fluxo básico:
 
 Retorna ao passo 7 do fluxo básico.
 
-##### 3.6.3.4 Limite de caracteres excedido
+###### 3.6.3.4 Limite de caracteres excedido
 
 A qualquer momento do fluxo básico:
 
@@ -623,7 +623,7 @@ Não há fluxos alternativos.
 
 ##### 4.6.3 Fluxos de Exceção
 
-##### 4.6.3.1 Senha Inválida
+###### 4.6.3.1 Senha Inválida
 
 Após o passo 4 do fluxo básico:
 
@@ -638,7 +638,7 @@ Retorna ao passo 3 do fluxo básico.
 
 #### 4.7 Protótipos de Interface do Caso de Uso
 
-##### Visualizar
+##### 4.7.1 Visualizar
 
 ![Protótipo de Deletar Usuário](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Prototypes/Working.png)
 
