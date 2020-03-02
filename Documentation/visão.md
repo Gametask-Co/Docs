@@ -305,4 +305,4 @@ Nota: Toda sexta depois da aula (18:15)
 
 #### 6. Diagrama de Casos de Uso
 
-![image](../Diagramas/Diagrama-de-casos-de-uso.png)
+![Diagrama de casos de uso](https://github.com/Gametask-Co/GT-DOCS/blob/master/Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
