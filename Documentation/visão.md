@@ -302,3 +302,7 @@ Nota: Toda sexta depois da aula (18:15)
 | Euller H. F. de Albuquerque | Produção e Validação dos Protótipos de Tela  |     -     |
 | Jonatas Melo Silva          | Revisão e Apresentação das Regras de Negócio |     -     |
 | Jonathan C. F. de Moura     | Produção dos Casos de uso UC01 e UC04        |     -     |
+
+#### 6. Diagrama de Casos de Uso
+
+![image](../Diagramas/Diagrama-de-casos-de-uso.png)
