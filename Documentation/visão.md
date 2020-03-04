@@ -131,7 +131,7 @@ Tendo em vista o propósito do projeto (gerenciar rotinas e atividades acadêmic
 
 
 
-### 2.5. Casos de Uso
+### 2.5 Casos de Uso
 
 | Cód. | Caso de Uso            | Descrição                                                    | Classificação |
 | ---- | ---------------------- | ------------------------------------------------------------ | ------------- |
@@ -143,7 +143,7 @@ Tendo em vista o propósito do projeto (gerenciar rotinas e atividades acadêmic
 | UC06 | Gerenciar Integrantes  | Inserir e remover integrantes de um grupo, dar e remover privilégios | Secundário    |
 | UC07 | Transferência de dados | Importar ou exportados do/para o Gametask                    | Secundário    |
 
-### 2.6. Tabela de Referência - Casos de uso & Requisitos
+### 2.6 Tabela de Referência - Casos de uso & Requisitos
 
 |      | UC01 | UC02 | UC03 | UC04 | UC05 | UC06 | UC07 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -183,7 +183,7 @@ Tendo em vista o propósito do projeto (gerenciar rotinas e atividades acadêmic
 | RF34 |  X   |      |      |      |      |      |      |
 | RF35 |      |  X   |      |      |      |      |      |
 
-### 2.7. Atores
+### 2.7 Atores
 
 | Ator      | Descrição                                                    |
 | --------- | ------------------------------------------------------------ |
@@ -215,3 +215,53 @@ Estudantes secundaristas, acadêmicos e vestibulandos.
 ## 5. Diagrama de Casos de Uso
 
 ![Diagrama de casos de uso](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
+
+
+
+## 6. API
+
+
+
+[Documentação](https://gtapi1.docs.apiary.io/)
+
+### 6.1 Usuario
+
+Rotas de acesso e modificação de informações referentes a usuários do sistema.
+
+#### 6.1.1 Autenticação
+
+
+
+#### 6.1.2 Criar
+
+
+
+#### 6.1.3 Atualizar
+
+
+
+#### 6.1.4 Visualizar
+
+
+
+#### 6.1.5 Desativar
+
+
+
+### 6.2 Atividade
+
+
+
+### 6.3 Projeto
+
+
+
+### 6.4 Disciplina
+
+
+
+### 6.5 Grupo
+
+
+
+### 6.6 Outros
