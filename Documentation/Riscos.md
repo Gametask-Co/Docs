@@ -7,3 +7,4 @@ Tendo em vista o propósito do projeto (gerenciador rotinas e atividades acadêm
 1. Mudança de todas as tecnológias (ReactJS, NodeJS, MongoDB) que não foram utilizadas anteriormente;
 2. Saída de componentes no andamento do projeto;
 3. Hospedagem da aplicação em um servidor real;
+

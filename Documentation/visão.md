@@ -212,6 +212,6 @@ Universidades, escolas e instituições de ensino que queiram estimular seus est
 
 Estudantes secundaristas, acadêmicos e vestibulandos.
 
-#### 5. Diagrama de Casos de Uso
+## 5. Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](https://github.com/Gametask-Co/GT-DOCS/blob/master/Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
+![Diagrama de casos de uso](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
