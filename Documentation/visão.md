@@ -214,7 +214,7 @@ Estudantes secundaristas, acadêmicos e vestibulandos.
 
 ## 5. Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
+![Diagrama de casos de uso](Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
 
 
 
