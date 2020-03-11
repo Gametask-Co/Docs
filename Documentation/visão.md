@@ -228,46 +228,5 @@ Estudantes secundaristas, acadêmicos e vestibulandos.
 
 
 
-[Documentação](https://gtapi1.docs.apiary.io/)
+[Documentação](https://gametask.docs.apiary.io/)
 
-### 6.1 Usuario
-
-Rotas de acesso e modificação de informações referentes a usuários do sistema.
-
-#### 6.1.1 Autenticação
-
-
-
-#### 6.1.2 Criar
-
-
-
-#### 6.1.3 Atualizar
-
-
-
-#### 6.1.4 Visualizar
-
-
-
-#### 6.1.5 Desativar
-
-
-
-### 6.2 Atividade
-
-
-
-### 6.3 Projeto
-
-
-
-### 6.4 Disciplina
-
-
-
-### 6.5 Grupo
-
-
-
-### 6.6 Outros
