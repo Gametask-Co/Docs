@@ -1,21 +1,11 @@
 # Glossário
 
-- Atividade (subject): É uma entidade que representa as atividades que o usuário pode ter de alguma disciplina em específico.
+## Gametask
 
-- Lista de afazeres (todo): Entidade representante dos afarezeres que relacionam com uma atividade, projetos e etc.
-
-- Realizar (make): Representa um estado da lista de afarezeres, algo que ainda será realizado mas está em andamento.
-
-- Finalizado (finish): Representa um estado da lista de afarezeres, contudo relaciona um afazer que já foi realizado.
-
-- Cronograma (schedule): Representação gráfica ou plástica das pretensões de um projeto, atividade e etc, destacando prazos e limites de cada entidade.
-
-- Ludificação: Também chamado de gamificação, é o uso de técnicas de design de jogos que utilizam mecânicas de jogos e pensamentos orientados a jogos para enriquecer contextos diversos normalmente não relacionados a jogos. Objetivando incentivar as pessoas a influenciar a maneira como são usados.
-
-- Secundaristas: Quem cursa, pelo menos, um dos três anos do ensino médio.
-
-- Acadêmicos: Relativo a que cursa ensino superior.
-
-- Vestibulandos: Diz-se de ou estudante que se prepara para prestar o exame vestibular.
-
-- Acionistas (stackholders): Designam clientes (Universidades, escolas e instituições de ensino) , proprietário da aplicação, e usuários (secundaristas, acadêmicos e vestibulandos), com foco em estimular seus estudantes a tornar suas rotinas de estudo mais produtiva.
+- **Gametask:** Sistema de Gestão de Rotina e Atividades Acadêmicas.
+- **Atividade (Task):** É a unidade básica do Gametask, é composto por uma lista de tarefas, um nome, uma descrição e um prazo de entrega.
+- **Tarefa (To do):** É o passo a passo de uma Atividade, como uma receita de bolo, o que devo fazer para considerar a Atividade concluída.
+Composto de um título, uma descrição e um estado (Concluído ou por fazer).
+- **Disciplina (Subject):** É um agregador de Atividades, além de permitir ao sistema montar grades de horários baseados nas disciplinas cadastradas. Possue um nome, uma descrição e um conjunto de horários.
+- **Projeto (Project):** É também um agregador de Atividades, com o diferencial de poder ser vinculado à uma disciplina ou grupo. Possue um nome, uma descrição e um prazo final.
+- **Grupo (Groups):** Ferramenta que permite aos usuários cadastrarem atividades em conjunto, facilitando o acompanhamento da realização de atividades e projetos em grupo.
