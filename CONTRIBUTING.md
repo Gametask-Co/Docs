@@ -78,3 +78,18 @@ Antes de subimeter um pull request, siga as instruções:
 
 - Crie uma branch referenciando a `master`.
 	- Example: `feat/incrementar-nova-funcionalidade` or `fix/resolucao-de-bug`;
+
+
+## Rotina
+
+Esquema de divisão das atividades durante uma iteração:
+
+| Dia | Descrição da atividade |
+| :---: | :--- | 
+| 1º | Descrição das issues |
+| 6º | Breve reunião da primeira entrega |
+| 10º | Reunião de avaliação da iteração |
+| 13º | Breve reunião da ultima entrega |
+| 14º | Reunião de planejamento da proxima iteração |
+
+
