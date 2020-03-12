@@ -202,29 +202,38 @@ Tendo em vista o propósito do projeto (gerenciar rotinas e atividades acadêmic
 | R05  | Cadastrar Projeto        | Cadastrar projeto para interagir com a aplicação        | Desejável   |
 | R06  | Cadastrar Disciplina     | Cadastrar disciplina para interagir com a aplicação     | Desejável   |
 
-## 4. Stackholders
+## 4. Riscos
 
-### 4.1 Clientes
+| Descrição                     | Impacto                                               |
+| ------------------------ | ------------------------------------------------------- |
+| Mudança de tecnologia      | Alto       |
+| Saída de integrantes        | Médio  |
+| Falta de recursos para hospedagem | Médio |
+| Falta de recursos para implementação      | Alto      |
+
+## 5. Stackholders
+
+### 5.1 Clientes
 
 Universidades, escolas e instituições de ensino que queiram estimular seus estudantes a tornar suas rotinas de estudo mais produtivas. E estudantes que por conta própria desejem o auxilio de uma ferramenta de produtividade em nicho especifico.
 
-### 4.2 Usuários
+### 5.2 Usuários
 
 Estudantes secundaristas, acadêmicos e vestibulandos.
 
-## 5. Diagramas
+## 6. Diagramas
 
-### 5.1 Diagrama de Casos de Uso
+### 6.1 Diagrama de Casos de Uso
 
 ![Diagrama de casos de uso](Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
 
-###5.2 Diagrama de Classes
+### 6.2 Diagrama de Classes
 
 ![Diagrama de classes](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Documentation/Diagramas/Class%20Diagram%20-%20Gametask.png)
 
 
 
-## 6. API
+## 7. API
 
 
 
