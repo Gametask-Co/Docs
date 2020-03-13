@@ -15,12 +15,12 @@ Documentação Gametask
 
 | UC |
 | :--- |
-| [Usuários](./Documentation/UC01 - Gerenciar Usuários.md) |
-| [Atividades](./Documentation/UC02 - Gerenciar Atividades.md) |
-| [Disciplinas](./Documentation/UC03 - Gereciar Disciplinas.md) |
-| [Projetos](./Documentation/UC04 - Gereciar Projetos.md) |
-| [Grupos](./Documentation/UC03 - Gereciar Grupos.md) |
-| [Integração](./Documentation/UC04 - Integração.md) |
+| [Usuários](./Use Case/UC01 - Gerenciar Usuários.md) |
+| [Atividades](./Use Case/UC02 - Gerenciar Atividades.md) |
+| [Disciplinas](./Use Case/UC03 - Gereciar Disciplinas.md) |
+| [Projetos](./Use Case/UC04 - Gereciar Projetos.md) |
+| [Grupos](./Use Case/UC03 - Gereciar Grupos.md) |
+| [Integração](./Use Case/UC04 - Integração.md) |
 
 
 ## API & Prototipos
