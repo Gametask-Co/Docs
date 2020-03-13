@@ -225,7 +225,7 @@ Estudantes secundaristas, acadêmicos e vestibulandos.
 
 ### 6.1 Diagrama de Casos de Uso
 
-![Diagrama de casos de uso](Documentation/Diagramas/Diagrama-de-casos-de-uso.png)
+![Diagrama de casos de uso](https://raw.githubusercontent.com/Gametask-Co/GT-DOCS/master/Documentation/Diagramas/UC%20Diagram%20-%20Gametask.png)
 
 ### 6.2 Diagrama de Classes
 
