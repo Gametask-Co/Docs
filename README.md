@@ -17,9 +17,9 @@ Documentação Gametask
 | :--- |
 | [Usuários](./Use Cases/UC01 - Gerenciar Usuários.md) |
 | [Atividades](./Use Cases/UC02 - Gerenciar Atividades.md) |
-| [Disciplinas](./Use Cases/UC03 - Gereciar Disciplinas.md) |
-| [Projetos](./Use Cases/UC04 - Gereciar Projetos.md) |
-| [Grupos](./Use Cases/UC03 - Gereciar Grupos.md) |
+| [Disciplinas](./Use Cases/UC03 - Gerenciar Disciplinas.md) |
+| [Projetos](./Use Cases/UC04 - Gerenciar Projetos.md) |
+| [Grupos](./Use Cases/UC03 - Gerenciar Grupos.md) |
 | [Integração](./Use Cases/UC04 - Integração.md) |
 
 
